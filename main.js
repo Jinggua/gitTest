@@ -4,3 +4,7 @@ function hello() {
 function gittest() {
   
 }
+
+function add(params) {
+  console.log()
+}
